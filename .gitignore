@@ -1,0 +1,8 @@
+*.pth
+*.tar.gz
+*.zip
+*.gz
+*.tar
+ddpm-butterflies-128
+__pycache__
+notes.md
